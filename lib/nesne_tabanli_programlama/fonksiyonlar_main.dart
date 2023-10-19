@@ -12,4 +12,5 @@ void main(){
   int gelenToplam = f.toplama(10, 24);
   print("Gelen Toplam : $gelenToplam");
 
+
 }

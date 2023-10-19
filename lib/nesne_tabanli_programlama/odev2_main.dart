@@ -8,5 +8,13 @@ void main(){
   int alanSonuc = o2.soru2(20, 20);
   print("Alan Sonucu : $alanSonuc");
 
+  int faktoriyel = o2.soru3(5);
+  print("Faktoriyel sonucu : $faktoriyel");
+
+  int maasHesaplama = o2.soru4(30);
+  print("Maaş ödemesi: $maasHesaplama");
+
+  int parkUcret = o2.soru5(10);
+  print("Otopark Ödemesi : $parkUcret");
 
 }
